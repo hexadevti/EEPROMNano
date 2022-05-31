@@ -1,0 +1,7 @@
+{
+    "sketch": "vAula291_source\\vAula291_source.ino",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "COM5",
+    "programmer": "arduino:avrispmkii"
+}
